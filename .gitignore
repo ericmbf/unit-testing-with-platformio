@@ -33,3 +33,10 @@
 
 .pioenvs
 
+.pio/build/project.checksum
+.pio/build/native/.sconsign38.db.dblite
+.pio/build/native/program
+.pio/build/uno/.sconsign38.db.dblite
+.vscode/c_cpp_properties.json
+.vscode/extensions.json
+.vscode/launch.json
